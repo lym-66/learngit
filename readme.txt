@@ -1,7 +1,4 @@
 git hello l=veros
-git hello l=veros
 jdkf dfffk
-jdkf dfffk
-git hello l=veros
-jdkf dfffk
-git hello l=veros
+git is a version control sysytem.
+git is free software.
