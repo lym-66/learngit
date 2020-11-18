@@ -13,5 +13,5 @@ git increase a new branch.
 <<<<<<< HEAD
 create git branch is quick and simple.
 =======
-create git branch is quick & simple.
+create git branch is quick and simple.
 >>>>>>> featurel
