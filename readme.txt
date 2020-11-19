@@ -1,5 +1,5 @@
 git hello l=veros
-jdkf dfffk
+jdkf
 git is a version control system.
 git is a free software distribute under the GPL.
 git has a mutable index called stage.
